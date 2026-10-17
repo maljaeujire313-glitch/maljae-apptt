@@ -1,0 +1,2 @@
+[functions.notes-assistant]
+verify_jwt = false
